@@ -12,7 +12,7 @@ class LoginView implements View
 <meta charset="utf-8">
 <link rel="stylesheet" href="login/style.css" type="text/css" />
 <script src="login/script.js" type="text/javascript"></script>
-<title>Таск менеджер</title>
+<title>Таск менеджер для Satom</title>
 </head>
 <body>
 	<?php $this->showlist();?>
